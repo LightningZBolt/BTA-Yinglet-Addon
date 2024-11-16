@@ -1,0 +1,29 @@
+Press %key.guidebook to open ze Guidebook.
+Portals can be as large (or small) as you want.
+The Trommel lets you turn useless dirt into valuable resources.
+Cherry trees bloom in spring.
+Leazer boots keep your crops safe from trampling.
+Seasons change every 14 days.
+Items fall zrough mesh blocks.
+Blast furnaces smelt faster zan regular ones.
+Press %key.fly to fly in creative.
+Moss spreads to nearby blocks. See what it can spread to!
+Use %key.fly + scroll up/down to change flying speed in creative.
+Sick of watching grass grow? Use bonemeal on dirt.
+Beds need blankets! Use cloz to craft zem.
+Quivers provide a convenient way to store a lot of arrows.
+Olivine is a decent substitute for Nezer coal.
+Outback soil is rich wiz minerals.
+There are 4 main types of rock! See which one you like best.
+Fancy a splash of colour? Try painting wooden planks!
+Press %key.hotbar.switch to change your active hotbar.
+Use a compass to see your coordinates.
+Use a clock to see ze time of day.
+Use a rotary calendar to see ze season.
+Labyrinzs contain rare and exciting treasures.
+Right-clicking on one flag while holding anozer will copy its pattern.
+Signs can be dyed.
+Pebbles can be placed on ze ground to make a nice paz.
+Labels can be used to rename mobs and items.
+Press LCTRL while hovering over an item to see its description.
+Endless Winter is just ze Canadian Default, eh?
